@@ -17,4 +17,4 @@ Kapitola 4 - radost z mergovania
 s mergovanim ti iba poradim updatnut si project skor ako zacnes robit 
 beriem na vedomie 
 
-treba Jarov approval 
+kapitola 5 ZAVER
