@@ -17,4 +17,8 @@ Kapitola 4 - radost z mergovania
 s mergovanim ti iba poradim updatnut si project skor ako zacnes robit 
 beriem na vedomie 
 
-kapitola 5 ZAVER
+kapitola 5 - pull requesty
+Vidis zmysel PR (pull requestov) ?
+
+kapitola 6 - naozajstny zaver
+Ako sa ti to paci?
