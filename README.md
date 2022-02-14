@@ -6,7 +6,7 @@ ANO
 
 Kapitola 2 - ako zacat pouzivat Git? 
 Co je to repozitar a ako to funguje?
-ANO! 
+ANO! tak s touto som si nie isty 
 
 Kapitola 3 - rozdiel medzi commit a push?
 Vies aky je rozdiel?
