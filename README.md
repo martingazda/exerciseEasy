@@ -1,6 +1,7 @@
 # exerciseEasy
 
 Kapitola 1
+- ako sa mas -
 
 
 Kapitola 2
