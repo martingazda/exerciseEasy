@@ -1,7 +1,7 @@
 # exerciseEasy
 
 Kapitola 1
-- ako sa mas -
+- ako sa mas - DOBRE , no to je teda den
 
 
 Kapitola 2
