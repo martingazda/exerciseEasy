@@ -1,20 +1,14 @@
 # exerciseEasy
 
-Kapitola 1
-- ako sa mas - DOBRE , no to je teda den
+Kapitola 1 - Co je to Git?
+Skus ci budes vediet na toto odpovedat?
 
 
-Kapitola 2 - ako zacat varit  
-- zoberiem hrniec
-- naplnim vodou 
-- privedieme k varu 
+Kapitola 2 - ako zacat pouzivat Git?
+Co je to repozitar a ako to funguje?
 
+Kapitola 3 - rozdiel medzi commit a push?
+Vies aky je rozdiel?
 
-Kapitola 3 - Omacky k masu 
-- smotanova
-- bez smotany 
-- s hubami 
-- so zeleninou 
-
-
-Kapitola 4
+Kapitola 4 - radost z mergovania
+s mergovanim ti iba poradim updatnut si project skor ako zacnes robit
