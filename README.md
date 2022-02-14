@@ -3,6 +3,7 @@
 Kapitola 1 - Co je to Git?
 Skus ci budes vediet na toto odpovedat?
 ANO 
+hovorim ze viem na to odpovedat 
 
 Kapitola 2 - ako zacat pouzivat Git? 
 Co je to repozitar a ako to funguje?
