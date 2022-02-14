@@ -1,1 +1,2 @@
 # exerciseEasy
+Uprava 
